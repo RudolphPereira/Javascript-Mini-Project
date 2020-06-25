@@ -1,7 +1,9 @@
-/* .title {
+body {
+  background-color: crimson;
+}
+.title {
   text-align: center;
-  font-weight: 400;
-  font-size: 2.5rem;
+  color: white;
 }
 
 .form {
@@ -14,14 +16,14 @@ input {
   padding: 0.6rem 1rem;
   margin-right: 1rem;
   border-radius: 5px;
-  border: 1px solid black;
+  border: none;
 }
 
 .button {
   padding: 0.6rem 1rem;
   border-radius: 5px;
-  border: 1px solid black;
   background-color: aliceblue;
+  border: none;
 }
 
 .products {
@@ -33,11 +35,10 @@ input {
 }
 
 .product {
-  width: 20%;
-  margin: 0.5rem;
+  width: 25%;
+  margin: 1rem;
   padding: 2rem;
   border-radius: 5px;
-  color: white;
-  background-color: crimson;
-  box-shadow: 2px 2px 3px grey;
-} */
+  color: #222;
+  background-color: white;
+}
