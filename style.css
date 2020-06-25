@@ -1,0 +1,43 @@
+/* .title {
+  text-align: center;
+  font-weight: 400;
+  font-size: 2.5rem;
+}
+
+.form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+input {
+  padding: 0.6rem 1rem;
+  margin-right: 1rem;
+  border-radius: 5px;
+  border: 1px solid black;
+}
+
+.button {
+  padding: 0.6rem 1rem;
+  border-radius: 5px;
+  border: 1px solid black;
+  background-color: aliceblue;
+}
+
+.products {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: center;
+  padding: 2rem 0;
+}
+
+.product {
+  width: 20%;
+  margin: 0.5rem;
+  padding: 2rem;
+  border-radius: 5px;
+  color: white;
+  background-color: crimson;
+  box-shadow: 2px 2px 3px grey;
+} */
